@@ -4,7 +4,7 @@ cask "ogdesign-eagle" do
   version "3.0,7"
 
   if Hardware::CPU.intel?
-    sha256 "9b35d210f1a75efd313053272cb38f19650fdf4c51f940c690407fbc36ddb3ca"
+    sha256 "921250f258c554298375bbe8fe424761b977de59f35c0bb2f456f7940c92a7c4"
   else
     sha256 "a6e94273cfe3a05b4e559a60a021306d6720c288920014e18d7f75f6daebb351"
   end
