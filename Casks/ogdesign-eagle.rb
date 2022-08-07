@@ -1,7 +1,7 @@
 cask "ogdesign-eagle" do
   arch = Hardware::CPU.intel? ? "" : "M1-"
 
-  version "3.0,8"
+  version "3.0,9"
 
   if Hardware::CPU.intel?
     sha256 "a399ebfea86a68fcbdd99f31ab6e7cf0f726cb42896601cb97aabf9785617bb2"
