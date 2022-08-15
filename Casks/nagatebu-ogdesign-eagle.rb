@@ -6,7 +6,7 @@ cask "nagatebu-ogdesign-eagle" do
   if Hardware::CPU.intel?
     sha256 "22f741b6951d153483b86be328e5f2f5bf101175097c650e7f59a7be619ac076"
   else
-    sha256 "6ceb0f6427731385584e02816123db4125d8a730becd3cd1225f3aee7d9e6c40"
+    sha256 "42024f78248291446ec511b140bc72acc7f46c47e5df39f3d4e0179d9eede822"
   end
 
   url "https://r2-app.eagle.cool/releases/Eagle-#{version.csv.first}-#{arch}build#{version.csv.second}.dmg"
