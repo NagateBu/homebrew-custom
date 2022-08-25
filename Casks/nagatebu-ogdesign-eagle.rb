@@ -1,4 +1,4 @@
-cask "ogdesign-eagle" do
+cask "nagatebu-ogdesign-eagle" do
   arch arm: "M1-"
 
   version "3.0,11"
