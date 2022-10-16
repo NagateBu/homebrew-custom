@@ -1,7 +1,7 @@
 cask "ogdesign-eagle" do
   arch arm: "M1-"
 
-  version "3.0,13"
+  version "3.0,21"
   sha256 arm:   "dac6000a3aec1772f3c3bfdd4e18107524c12b2e18b4fce88a3e19be20785abf",
          intel: "b8f450fbe2cfe94beeecf9af4c59a45c00e0cff99e13a129ae78519151448031"
 
